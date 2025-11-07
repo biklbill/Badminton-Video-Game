@@ -13,4 +13,4 @@ Key game systems that require development:
 
 The app of the game itself is in the Badminton game app folder, called BAFA main.exe. It takes the player directly to the core gameplay experience, which is fully playable.
 
-The code of the game is in the Badminton game code folder. The editor version is 6000.1.9f1.
+The code of the game is in the Badminton game code folder. The core gameplay resides in the Game.unity scene and can be executed to perform gameplay testing. The editor version is 6000.1.9f1.
